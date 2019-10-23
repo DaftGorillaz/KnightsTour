@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1543670941 source:d:\google drive\school\second year\1st sem\ce 22\project 3 knights tour\tour board\main.cpp
+	<iostream>
+	"TourBoard.h"
+
+1543670124 d:\google drive\school\second year\1st sem\ce 22\project 3 knights tour\tour board\tourboard.h
+	<iostream>
+
+1543725493 source:d:\google drive\school\second year\1st sem\ce 22\project 3 knights tour\tour board\tourboard.cpp
+	"TourBoard.h"
+	<iostream>
+
